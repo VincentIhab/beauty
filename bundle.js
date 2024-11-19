@@ -1,0 +1,1 @@
+(()=>{"use strict";document.addEventListener("DOMContentLoaded",(()=>{console.log("Website loaded!"),document.querySelectorAll(".fade-in").forEach((e=>{e.style.animation="fade-in 1s ease-in-out"}))}))})();
